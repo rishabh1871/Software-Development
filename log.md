@@ -20,3 +20,4 @@ The debugging duck has been found in a desk drawer. Dr. Honk denies everything.
 
 Mission control reminds all crew members that it does not accept pushes.
 Make your own copies of this log.
+- Rishabh Malasi joined the crew of the SS Probably Fine.
